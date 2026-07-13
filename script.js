@@ -152,7 +152,7 @@
     [{ s: '        self.stack = [' }],
     [{ s: '            ' }, { t: 'str', s: '"Python"' }, { s: ', ' }, { t: 'str', s: '"DSA"' }, { s: ', ' }, { t: 'str', s: '"Django"' }, { s: ',' }],
     [{ s: '            ' }, { t: 'str', s: '"GenAI"' }, { s: ', ' }, { t: 'str', s: '"RAG"' }, { s: ', ' }, { t: 'str', s: '"LLMs"' }, { s: ','}],
-    [{ s: '            ' },{ t: 'str', s: '"Machine Learning"' }, { s: ', ' }, { t: 'str', s: '"SQL"' }, { s: ', ' }],
+    [{ s: '            ' },{ t: 'str', s: '"Machine Learning"' }, { s: ', ' }, { t: 'str', s: '"SQL"' }],
     [{ s: '        ]' }],
     [{ s: '' }],
     [{ s: '    ' }, { t: 'key', s: 'def ' }, { t: 'fn', s: 'ship' }, { s: '(self, idea):' }],
